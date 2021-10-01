@@ -1,6 +1,8 @@
 What does this program do?
 ------------------
 
+* this project is still in progress. 
+
 Quick summarization:
 ------------------
 
