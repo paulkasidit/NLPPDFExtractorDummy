@@ -17,17 +17,12 @@ Simple breakdown on how this all works:
 - We clear the original content (the uncleaned text), and write the new and cleaned text into it instead.
 - We save and close the file. (This is the latest step so far). 
 
-
-Requirements (Modules and APIs and how they were used in the parantheses.)
+Installation 
 ------------------
 
-- OS (Used for creating a new file and directory, and writing into the newly created file.)
-- Slate (Extracting text from PDF)
-- Json (This will be used later for creating a JSON and populating it with extracted data.)
-- String (This is used to convert to PDF file into a string object, this is required for further steps.)
-- nltk (Natural Language Tool Kit) (Used for cleaning text)
-- PorterStemmer (Stems text, it may be removed)
-- re 
+In program directory run the folowing Terminal Command: 
+
+pip install -r requirements.txt
 
 What worked and what did not?
 ------------------
