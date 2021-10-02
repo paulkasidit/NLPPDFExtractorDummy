@@ -43,6 +43,4 @@ Unfulfilled Tasks
 - Recognize entities from text and assign them to the correct entities. 
 - Creating a JSON file. 
 
-# NLPPDFExtractorDummy
-# NLPPDFExtractorDummy # NLPPDFExtractorDummy
-# NLPPDFExtractorDummy # NLPPDFExtractorDummy
+
